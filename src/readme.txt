@@ -1,0 +1,1 @@
+在非unix环境下，分别编译library； library+lua.c (interpreter); library+luac.c (compiler)
